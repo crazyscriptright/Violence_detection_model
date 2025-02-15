@@ -1,0 +1,18 @@
+TensorFlow==2.18.0
+NumPy==1.26.4
+OpenCV==4.11.0
+Matplotlib==3.10.0
+Seaborn==0.13.2
+Scikit-learn==1.6.1
+Requests==2.32.3
+TQDM==4.67.1
+Python Slugify==8.0.4
+Bleach==6.2.0
+Certifi==2025.01.31
+Charset-normalizer==3.4.1
+Idna==3.10
+Six==1.17.0
+Dateutil==2.8.2
+
+
+###Python 3.11.11
